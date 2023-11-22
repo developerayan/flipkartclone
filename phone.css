@@ -1,0 +1,52 @@
+body{
+    overflow-x: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#logo{
+    margin-left: 50px;
+    width: 120px;
+    height: 40px;
+}
+.seller{
+    visibility: hidden;
+}
+.login{
+    margin-left: 90%;
+    position: absolute;
+}
+#navbar{
+    height: 200px;
+    position: absolute;
+    display: flex;
+    flex-wrap: wrap;
+}
+#cat{
+    margin-top: 110px;
+}
+#search{
+    margin-top: 60px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 1200px;
+    margin-left: 30px;
+}
+.burger{
+    visibility: visible;
+}
+.items{
+    visibility: visible;
+}
+.furniture{
+    width: 70px;
+    height: 70px;
+}
+#furniture{
+    width: 70px;
+    height: 70px;
+}
+#infinix{
+    visibility: hidden;
+}
+#tv{
+    visibility: hidden;
+}
